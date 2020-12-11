@@ -11,6 +11,7 @@ pipeline{
                 echo "${env.BUILD_NUMBER}"
                 echo "${env.NODE_NAME}"
                 echo "5mo6tx/demo"
+                echo "heelo"
               }
             
             }
