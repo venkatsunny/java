@@ -8,6 +8,7 @@ pipeline{
                 echo "${env.NODE_NAME}"
                 echo "venkatsunny/java"
                 echo "kkkkkkkkkkkk"
+                echo "docker demo"
               }
             
             }
