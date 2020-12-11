@@ -7,7 +7,7 @@ pipeline{
                 echo "${env.BUILD_NUMBER}"
                 echo "${env.NODE_NAME}"
                 echo "venkatsunny/java"
-                echo "hhhhhhhhhhhhhh"
+                echo "trigerg"
               }
             
             }
